@@ -1,0 +1,11 @@
+adding a new command:
+	- add the commands function in the player's class
+	- add the command's name to the gameplay.command variable	
+	- add the command's function to the --> gameplay.command_handle >> command_dic
+	- add commmand's name to show commnads doc string in gameplay.show_commands func
+	- if command is 'one word command' then add its name to --> @decorator_input_handle (decorator) in player class
+
+adding a new room:
+	- 
+	- 
+	- 
